@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilknull/CLionProjects/lab6/coordinates.h
+
+/home/ilknull/CLionProjects/lab6/line.h
+coordinates.h
+/home/ilknull/CLionProjects/lab6/coordinates.h
+
+/home/ilknull/CLionProjects/lab6/main.cpp
+iostream
+-
+rect.h
+/home/ilknull/CLionProjects/lab6/rect.h
+line.h
+/home/ilknull/CLionProjects/lab6/line.h
+
+/home/ilknull/CLionProjects/lab6/rect.h
+

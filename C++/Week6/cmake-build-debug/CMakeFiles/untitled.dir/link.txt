@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/rect.cpp.o CMakeFiles/untitled.dir/coordinates.cpp.o CMakeFiles/untitled.dir/line.cpp.o  -o untitled 
